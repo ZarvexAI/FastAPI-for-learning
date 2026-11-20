@@ -1,0 +1,20 @@
+to create pyproject.toml
+==> poetry init
+
+to add new library/dependency
+==> poetry add name
+
+
+to add remove library/dependency
+==> poetry remove name
+
+to see commads of poetry
+==> poetry enter
+
+to sync the versionsof libraries
+==> poetry sync
+
+to install all dependencies used in project
+==> poetry install
+
+to 
